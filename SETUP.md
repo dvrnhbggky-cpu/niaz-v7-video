@@ -17,10 +17,10 @@ This repo holds the Nihongo by Niaz Sensei **v7 Remotion toolchain** (code only 
 3. Demo audio: the demo compositions expect the narration/Japanese clips under
    `demos/audio` and `demos/ja` (not in this repo — they stay with the owner/Muse).
    For a first environment test, render a still instead:
-   `npx remotion still demos/src/index.jsx DemoVocab test.png --frame=60`
+   `npx remotion still demos/src/index.jsx V7DemoVocab test.png --frame=60`
 4. Full demo render (once audio is in place):
-   `npx remotion render demos/src/index.jsx DemoVocab out/DemoVocab.mp4`
-   (same pattern for DemoKanji / DemoGrammar)
+   `npx remotion render demos/src/index.jsx V7DemoVocab out/DemoVocab.mp4`
+   (same pattern for V7DemoKanji / V7DemoGrammar)
 
 ## Known blockers (honest list)
 - Voice generation (Bangla MAI_03 + Japanese Okibi) does NOT exist in ChatGPT's

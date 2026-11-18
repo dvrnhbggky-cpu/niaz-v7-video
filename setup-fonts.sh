@@ -16,4 +16,4 @@ mv -f inter-v20-latin-regular.ttf Inter-Regular.ttf 2>/dev/null || true
 mv -f inter-v20-latin-600.ttf Inter-SemiBold.ttf 2>/dev/null || true
 mv -f inter-v20-latin-800.ttf Inter-ExtraBold.ttf 2>/dev/null || true
 ls -la
-echo "FONTS DONE — V5Display-Bold.ttf / V5Display-ExtraBold.ttf are already in the repo (pushed separately)."
+echo "FONTS DONE — V5Display-Bold.ttf and V5Display-ExtraBold.ttf are custom brand fonts (not public) — add them from the toolchain ZIP public/fonts if the font check reports them MISSING."
