@@ -1,0 +1,8 @@
+{
+  "name": "niaz-v7-video",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "features": {},
+  "customizations": {},
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-core libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2 libpango-1.0-0 libcairo2 && npm install && bash setup-fonts.sh",
+  "remoteUser": "node"
+}

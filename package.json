@@ -1,0 +1,1 @@
+{"dependencies":{"@remotion/cli":"^4.0.539","@remotion/google-fonts":"^4.0.539","react":"^19.3.1","react-dom":"^19.3.1","remotion":"^4.0.539"},"description":"Nihongo by Niaz Sensei — V6 visual design system (v5 library + Fable-beating layer: bespoke law, polish loop, design-first gates)","main":"src/index.jsx","name":"nihongo-visuals-v7","private":true,"version":"6.0.0"}
